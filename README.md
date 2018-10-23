@@ -3,6 +3,8 @@
 **Check.js**
 ============================================================
  [![CircleCI](https://circleci.com/gh/jaywcjlove/validator.js.svg?style=svg)]
+ 
+ 超轻量级JavaScript字符串正则验证工具。
 # 如何开始/To start
 
 在应用中引用 `Check.min.js` 文件, 手动下载并链接HTML中的 [Check.min.js]
