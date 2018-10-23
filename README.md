@@ -1,4 +1,4 @@
-<div align=center><img  src="http://image.zgxyzx.net/logo.gif"/></div>
+<div align=center><img  src=""/></div>
 
 **Check.js**
 ============================================================
