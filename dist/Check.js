@@ -3,7 +3,7 @@
  * 超轻量JavaScript 字符串正则验证工具。完全无依赖。
  * 
  * Copyright (c) 2018 skytot <skytot@163.com>
- * http://jaywcjlove.github.io/validator.js
+ * https://github.com/skytot/Check.js
  * 
  * Licensed under the MIT license.
  */
