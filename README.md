@@ -2,8 +2,12 @@
 
 **Check.js**
 ============================================================
- [![CircleCI](https://circleci.com/gh/jaywcjlove/validator.js.svg?style=svg)]
- 
+![CircleCI](https://circleci.com/gh/jaywcjlove/validator.js.svg?style=svg)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/skytot/Check.js)
+![](https://img.shields.io/badge/language-javascript-orange.svg)
+![npm bundle size (minified)](https://img.shields.io/badge/minified-2kb-green.svg)
+![](https://img.shields.io/badge/%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%9C%E5%8D%8A%E7%90%83%E6%9C%80%E6%83%8A%E8%89%B3%E7%9A%84-%E5%B7%A5%E5%85%B7%E5%BA%93-7AD6FD.svg)
+
  超轻量级JavaScript字符串正则验证工具。
 # 如何开始/To start
 
