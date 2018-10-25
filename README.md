@@ -48,7 +48,7 @@
 
 # 浏览器支持/ Browser support
 
-Modern browsers and IE 10+.
+Modern browsers and IE 8+.
 
 # 许可证/ License
 [MIT](http://opensource.org/licenses/MIT)
