@@ -1,4 +1,4 @@
-<img src="http://or9pbx09t.bkt.clouddn.com/check.png"/>
+<img src="https://raw.githubusercontent.com/skytot/Check.js/master/demo/check.png"/>
 
 **Check.js**
 ============================================================
